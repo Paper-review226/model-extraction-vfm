@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+data/
+checkpoints/
